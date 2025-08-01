@@ -1,0 +1,12 @@
+2025-07-31 12:49:11,124 - lorawan_simulator - INFO - 🚀 LoRaWAN Simülatörü başlatılıyor...
+2025-07-31 12:49:11,126 - lorawan_simulator - INFO - ✅ Veritabanı bağlantısı başarılı
+2025-07-31 12:49:11,130 - lorawan_simulator - INFO - 📡 5 aktif sensör bulundu
+2025-07-31 12:49:11,131 - lorawan_simulator - INFO - ⏰ Zamanlayıcı ayarlandı: 15 dakika
+2025-07-31 12:49:11,144 - lorawan_simulator - ERROR - ❌ Veri üretme hatası: 'normal'
+2025-07-31 12:49:11,144 - lorawan_simulator - INFO - ✅ Simülatör başarıyla başlatıldı
+2025-07-31 12:53:58,871 - lorawan_simulator - INFO - 🚀 LoRaWAN Simülatörü başlatılıyor...
+2025-07-31 12:53:58,872 - lorawan_simulator - INFO - ✅ Veritabanı bağlantısı başarılı
+2025-07-31 12:53:58,874 - lorawan_simulator - INFO - 📡 5 aktif sensör bulundu
+2025-07-31 12:53:58,874 - lorawan_simulator - INFO - ⏰ Zamanlayıcı ayarlandı: 15 dakika
+2025-07-31 12:53:58,886 - lorawan_simulator - INFO - ✅ 5 sensör verisi üretildi ve kaydedildi
+2025-07-31 12:53:58,886 - lorawan_simulator - INFO - ✅ Simülatör başarıyla başlatıldı
